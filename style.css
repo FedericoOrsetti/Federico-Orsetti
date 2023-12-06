@@ -1,0 +1,45 @@
+.immagine-cards {
+
+    background-image: url(https://www.clubipini.com/CLUBIPINI/SLIDESHOW/168-cinque-terre-parco.jpg);
+    background-size: cover;
+    min-height: 100vh;
+    
+}
+
+.piatti {
+
+    background-color: darksalmon;
+}
+
+.nav {
+
+    background-color: burlywood;
+}
+
+.carousel-img {
+
+     height: 100vh;
+}
+
+.body{
+    background-color: aquamarine;
+}
+
+.card-body {
+
+    background-color: darkseagreen;
+}
+
+.card-h
+
+{
+
+    height: 200px;
+}
+
+.card-custom {
+
+height: 400px;
+
+}
+
